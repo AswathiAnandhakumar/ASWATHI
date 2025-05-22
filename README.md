@@ -1,2 +1,3 @@
-# ASWATHI
-THIS IS MY FIRST RESPOSITORY 
+# mycollage
+this is my first git repository
+author:aswathi
